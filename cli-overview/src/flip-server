@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+echo "Waiting for contact. Press ctrl-C to exit."
+trap "exit" INT
+while [ 0 ]; do
+  cat hidden-message.txt | flip-crypt `cat key.txt` | gzip | nc -l 7777
+  echo "Message Recieved."
+done;

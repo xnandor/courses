@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+nc $1 7777 | gunzip | flip-crypt `cat key.txt` | less
