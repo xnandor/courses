@@ -167,7 +167,7 @@ public class FlipCrypt {
 
 #### 3.a. Things you may need.
 
-- [Netcat (Windows Only, comes with Unix)](http://joncraton.org/files/nc111nt.zip)
+- [Netcat (Windows Only, comes with Unix)](https://eternallybored.org/misc/netcat/netcat-win32-1.12.zip)
 
 
   | Commands                   | Action                                         |
