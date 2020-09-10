@@ -54,7 +54,7 @@ Why do so many grey beards love unix?
 
 ## Flip Crypt Project
 
-The deep state has taken over Ebsco's communication lines. 
+The deep state has taken over your company's communication lines. 
 We need a way to communicate together without being detected.
 
 ### 1. Flip Crypt
