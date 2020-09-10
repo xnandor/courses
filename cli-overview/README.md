@@ -8,7 +8,7 @@ how programs work together in command line.
 
 ## Flip Crypt Project Overview
 
-The deep state has taken over Ebsco's communication lines. 
+The deep state has taken over your company's communication lines. 
 We need a way to communicate together without being detected. 
 We will build a cryptographic function in Java and use it to communicate secretly
 to each other over the network. 
